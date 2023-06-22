@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 </picture>
 -->
 
-- 🌱 I’m currently learning  ...
 
-- 
+
 | Skills        | Year          |
 | ------------- | ------------- |
 | Python        |    2          |
@@ -33,6 +32,6 @@ Here are some ideas to get you started:
 | Net           |    2          |
 
 ---
-> Good luck with learning
+> 🌱 Good luck with learning
 
-— Fattaneh
+— 🔭 Fattaneh
