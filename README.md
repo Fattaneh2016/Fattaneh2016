@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | Python        |    AWS          |
 | API           |    Azure          |
 | Kuberneyes    |    SQL          |
-| Net           |    MongoDB          |
+| Network           |    MongoDB          |
 
 ---
 > 🌱 Good luck with learning
