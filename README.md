@@ -38,3 +38,11 @@ Here are some ideas to get you started:
 
  <!--[My Heading](#my-heading)
 
+ ```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+
+
