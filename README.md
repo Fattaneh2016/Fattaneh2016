@@ -24,14 +24,17 @@ Here are some ideas to get you started:
 
 
 
-| Skills        | Year          |
+| Skills        |           |
 | ------------- | ------------- |
-| Python        |    2          |
-| API           |    2          |
-| Kuberneyes    |    1          |
-| Net           |    2          |
+| Python        |    AWS          |
+| API           |    Azure          |
+| Kuberneyes    |    SQL          |
+| Net           |    MongoDB          |
 
 ---
 > 🌱 Good luck with learning
 
 — 🔭 Fattaneh
+
+ <!--[My Heading](#my-heading)
+
