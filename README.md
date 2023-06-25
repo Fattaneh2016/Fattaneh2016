@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 | Skills        |           |
 | ------------- | ------------- |
 | Python        |    AWS          |
-| API           |    Azure          |
-| Kuberneyes    |    SQL          |
+| RRESTful API           |    Azure          |
+| Kubernetes    |    SQL          |
 | Network           |    MongoDB          |
 
 ---
