@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </picture>
 -->
 
-
+<!--
 
 | Skills        |           |
 | ------------- | ------------- |
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 | RRESTful API           |    Azure          |
 | Kubernetes    |    SQL          |
 | Network           |    MongoDB          |
+
 
 ---
 > 🌱 Good luck with learning
